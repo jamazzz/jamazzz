@@ -1,16 +1,6 @@
-<!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/toquinhaman/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/christian-oliveira-925532257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/variablebee">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  <a href="https://discord.gg/YhN2wfXt9M">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
@@ -18,13 +8,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=gotham" alt="GitHub Stats">
 </p>
-
-<!-- Portfolio -->
-## 🚀 Portfolio:
-- [Python - Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and Analyzing Data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and Query System](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="center">
@@ -47,4 +30,5 @@
 <div align="center">
   <h3>Tools & Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" height="30" width="40">
+  <img src="https://img.shields.io/badge/FiveM-F40552.svg?style=for-the-badge&logo=FiveM&logoColor=white" alt="FiveM">
 </div>
