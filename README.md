@@ -1,8 +1,8 @@
 <!-- GitHub Stats -->
 ## 📈 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=gotham" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamazzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent" alt="GitHub Stats">
+  ![jamazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent)
 </p>
 
 ## 🔥 Skills
