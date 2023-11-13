@@ -39,5 +39,3 @@
     <img src="https://img.shields.io/badge/Discord%20Group-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord Group">
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/jamazzz/output/snake.svg" alt="Snake animation" />
