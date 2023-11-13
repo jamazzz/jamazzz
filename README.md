@@ -2,8 +2,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamazzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamazzz&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=transparent&hide_border=false" alt="Languages Graph">
+</p>
+
 
 
 ## 🔥 Skills
