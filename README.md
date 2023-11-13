@@ -1,8 +1,9 @@
-<p align="center">
+<!-- Discord Link -->
+<div align="center">
   <a href="https://discord.gg/YhN2wfXt9M">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>
+</div>
 
 <!-- GitHub Stats -->
 <p align="center">
