@@ -1,11 +1,7 @@
 <!-- GitHub Stats -->
+## 📈 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=gotham" alt="GitHub Stats">
-</p>
-
-<!-- GIF -->
-<p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF">
 </p>
 
 ## 🔥 Skills
@@ -27,7 +23,7 @@
   <img src="https://img.shields.io/badge/FiveM-F40552.svg?style=for-the-badge&logo=FiveM&logoColor=white" alt="FiveM">
 </div>
 
-## 🔥 Contacts
+## 📱 Contacts
 
 <div align="center">
   <a href="https://discord.com/users/your_user_id_here" target="_blank">
