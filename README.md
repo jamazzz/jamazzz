@@ -1,9 +1,9 @@
-<!-- GitHub Stats -->
-## 📈 Github Stats
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent" alt="GitHub Stats">
-  ![jamazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent)
 </p>
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
