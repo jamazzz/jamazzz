@@ -1,10 +1,3 @@
-<!-- Discord Link -->
-<div align="center">
-  <a href="https://discord.gg/YhN2wfXt9M">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=gotham" alt="GitHub Stats">
@@ -32,4 +25,15 @@
   <h3>Tools & Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" height="30" width="40">
   <img src="https://img.shields.io/badge/FiveM-F40552.svg?style=for-the-badge&logo=FiveM&logoColor=white" alt="FiveM">
+</div>
+
+## 🔥 Contacts
+
+<div align="center">
+  <a href="https://discord.com/users/your_user_id_here" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-jamazzz-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: jamazzz">
+  </a>
+  <a href="https://discord.gg/YhN2wfXt9M" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20Group-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord Group">
+  </a>
 </div>
