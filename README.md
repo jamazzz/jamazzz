@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamazzz&theme=transparent&hide_border=true" alt="Languages Graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamazzz&theme=transparent&hide_border=true&count_private=true" alt="Languages Graph">
   <img src="https://github-readme-stats.vercel.app/api?username=jamazzz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamazzz&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=transparent&hide_border=true" alt="Languages Graph">
 </p>
